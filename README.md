@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy! 👋
 
 <!--
 **danielreales7/danielreales7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Howdy! 👋
 ⚡ I'm Daniel Reales, from Ibiza (Spain). I'm a fullstack developer, entrepeneur and footballer.
 
 💻 My code is mainly focused in 🌐 Web develoment: Front-End with JavaScript, and backend with Laravel, although I do a lot of this and that with other langs, frameworks and tools.
