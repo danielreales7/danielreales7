@@ -22,6 +22,8 @@ Howdy! 👋
 
 📫 You can reach me through:
 
-<a href="https://aldanux.es/">My portfolio</a>
-<a href="https://www.instagram.com/danielreales7/">Instagram</a>
-<a href="https://www.linkedin.com/in/danielreales/">Linkedin</a>
+<ul>
+  <li><a href="https://aldanux.es/" target="_blank">My portfolio</a></li>
+  <li><a href="https://www.instagram.com/danielreales7/" target="_blank">Instagram</a></li>
+  <li><a href="https://www.linkedin.com/in/danielreales/" target="_blank">Linkedin</a></li>
+</ul>
